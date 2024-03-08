@@ -112,6 +112,7 @@ while (numericArray[k]!==32) { console.log (numericArray[k]); k++}
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
+
 const charactersArray = ['g', 'n', 'u', 'z', 'd']
 const position = []
 for (i = 0; i<charactersArray.length; i++){
