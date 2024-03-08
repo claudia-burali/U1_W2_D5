@@ -79,10 +79,14 @@ h2 {
   background-repeat: no-repeat;
 }*/
 .circle {
+  max-height: 25em;
+  margin: 1.5em 1em 0.5em 1em;
   display: inline-block;
-  max-width: 20%;
+  max-width: 23%;
   border-radius: 10%;
+  box-shadow: 12px 15px 4px -8px rgba(0, 0, 0, 0.1);
 }
+
 .ab:link,
 .ab:visited {
   margin-left: 1em;
