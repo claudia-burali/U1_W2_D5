@@ -1,0 +1,121 @@
+/* Your styles here */
+body {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #e4e5e3;
+}
+.left {
+  text-align: left;
+}
+.logo_top {
+  margin: 0.6em 1em 0.6em 2em;
+  width: 8em;
+}
+.bold {
+  font-family: "Arial", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+header {
+  background-color: #222f3f;
+}
+a:link,
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+nav {
+  padding: 0.6em;
+  background-color: #364759;
+}
+nav > a {
+  margin: 0.8em;
+}
+#cards {
+  margin: 2em;
+  padding: 0.6em;
+  background-color: #f36604;
+}
+#title {
+  color: white;
+  margin: 2em;
+  padding: 2.8em;
+  background-position: center;
+  background-image: url("assets/images/bg-image.png");
+}
+h1 {
+  margin: 1em;
+  font-size: 2em;
+}
+h3 {
+  margin: 1em;
+  font-size: 1.3em;
+}
+h2 {
+  font-size: 1.5em;
+  display: inline;
+}
+#gift {
+  margin: 2em;
+  margin-bottom: 0;
+  padding: 1.8em;
+  background-color: white;
+}
+.circle {
+  display: inline-block;
+  max-width: 20%;
+  border-radius: 10%;
+}
+.ab:link,
+.ab:visited {
+  margin-left: 1em;
+  color: #148e97;
+}
+.img {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+footer {
+  background-color: #222f3f;
+}
+.logo_bottom {
+  margin: 4em;
+  width: 13em;
+}
+footer > a {
+  padding: 0.8em;
+  margin-top: 2em;
+  display: block;
+  background-color: #364759;
+}
+#text {
+  text-decoration: underline;
+}
+
+/* 
+header {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("traccia/Esercizio/images/banner.jpg");
+}
+
+.text {
+  max-width: 50%;
+  display: inline-block;
+}
+.box {
+  margin: 1em;
+  display: inline-block;
+  max-width: 30%;
+  border: #dee1e3 solid 1px;
+}
+img {
+  max-width: 100%;
+} */
